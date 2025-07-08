@@ -18,3 +18,5 @@ If you really would like to see the front end running for demonstration, I can s
 ## Contact
 
 Feel free to contact me for clarification and/or if you would like to arrange for a demo!
+mail to balajiselvaraj12@gmail.com
+phone : 9360201078
